@@ -1,0 +1,23 @@
+{
+  "name": "flexware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mysql": "^2.15.0",
+    "file-system": "^2.2.2",
+    "jade": "~1.11.0",
+    "morgan": "~1.7.0",
+    "debug": "~2.2.0",
+    "serve-favicon": "~2.3.0"
+  }
+}
